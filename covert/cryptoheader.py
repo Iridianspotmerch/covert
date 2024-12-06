@@ -1,4 +1,4 @@
-import random
+import wallet
 from contextlib import suppress
 
 from covert import chacha, passphrase, pubkey, ratchet, util
